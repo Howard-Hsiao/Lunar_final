@@ -9,7 +9,7 @@
 
 ## Projects
 ### Cartpole-v1
-<img src="./img/cartpole.jpg" alt="cartpole">
+<img src="./img/cartpole.jpg" alt="cartpole" width="400">
 
 CartPole是OpenAI Gym中最簡單的一個遊戲，遊戲目標是藉由移動車子來保持上方木棒平衡
 #### 環境:
@@ -23,7 +23,7 @@ CartPole是OpenAI Gym中最簡單的一個遊戲，遊戲目標是藉由移動�
 [破關程式碼](https://nbviewer.jupyter.org/github/lewiechiu/MLDL/blob/master/openai_gym_cartpole.ipynb?fbclid=IwAR1360xysqwyp49tu9EfHYwlDZW0umu0IQEoRcwpg7WLTFiwEFQFHO6XLjg)
 
 ### LunarLander-v2
-<img src="./img/lunarlander.jpg" alt="lunarlander">
+<img src="./img/lunarlander.jpg" alt="lunarlander" width="400" >
 
 LunarLander-v2亦為OpenAI Gym中的遊戲，遊戲方式為控制太空船不同方向的引擎，使太空船順利降落在兩旗竿之間。
 
@@ -40,7 +40,7 @@ LunarLander-v2亦為OpenAI Gym中的遊戲，遊戲方式為控制太空船不�
 輸入:當下狀態(state)、採取動作(action)
 輸出:在state下採取action能得到的反饋(reward)
 
-<img src="./img/our_lunar_solution1.jpg" alt="our_lunar_solution1">
+<img src="./img/our_lunar_solution1.jpg" alt="our_lunar_solution1" width="500">
 
 #### 程式發展歷程:
 
@@ -75,7 +75,7 @@ LunarLander-v2亦為OpenAI Gym中的遊戲，遊戲方式為控制太空船不�
 解法2成功通關，解法1失敗
 
 ### BipedalWalker-v2
-<img src="./img/bi_pedal_walker.jpg" alt="bi_pedal_walker">
+<img src="./img/bi_pedal_walker.jpg" alt="bi_pedal_walker" width="400">
 
 Bi-pedalwalker是OpenAI Gym中另一個較複雜的遊戲，遊戲方式為控制機器人腳步，使得機器人能走越遠越好。
 
